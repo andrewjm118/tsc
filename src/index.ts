@@ -1,3 +1,3 @@
-const getFullName = ({ firstName, lastName }) => {
-    return `${firstName} ${lastName}`;
-};
+function ceshi(): void {
+    console.log(33);
+}
